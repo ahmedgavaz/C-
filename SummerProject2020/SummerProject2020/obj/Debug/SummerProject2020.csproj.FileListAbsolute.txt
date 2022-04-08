@@ -1,0 +1,10 @@
+C:\Users\Ahmed\source\repos\SummerProject2020\SummerProject2020\bin\Debug\SummerProject2020.exe.config
+C:\Users\Ahmed\source\repos\SummerProject2020\SummerProject2020\bin\Debug\SummerProject2020.exe
+C:\Users\Ahmed\source\repos\SummerProject2020\SummerProject2020\bin\Debug\SummerProject2020.pdb
+C:\Users\Ahmed\source\repos\SummerProject2020\SummerProject2020\obj\Debug\SummerProject2020.csprojAssemblyReference.cache
+C:\Users\Ahmed\source\repos\SummerProject2020\SummerProject2020\obj\Debug\SummerProject2020.Form1.resources
+C:\Users\Ahmed\source\repos\SummerProject2020\SummerProject2020\obj\Debug\SummerProject2020.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\SummerProject2020\SummerProject2020\obj\Debug\SummerProject2020.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\SummerProject2020\SummerProject2020\obj\Debug\SummerProject2020.exe
+C:\Users\Ahmed\source\repos\SummerProject2020\SummerProject2020\obj\Debug\SummerProject2020.pdb
+C:\Users\Ahmed\source\repos\SummerProject2020\SummerProject2020\obj\Debug\SummerProject2020.Form2.resources

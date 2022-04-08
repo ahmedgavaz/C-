@@ -1,0 +1,10 @@
+C:\Users\Ahmed\source\repos\Solution1\zad4\bin\Debug\netcoreapp3.1\zad4.exe
+C:\Users\Ahmed\source\repos\Solution1\zad4\bin\Debug\netcoreapp3.1\zad4.deps.json
+C:\Users\Ahmed\source\repos\Solution1\zad4\bin\Debug\netcoreapp3.1\zad4.runtimeconfig.json
+C:\Users\Ahmed\source\repos\Solution1\zad4\bin\Debug\netcoreapp3.1\zad4.runtimeconfig.dev.json
+C:\Users\Ahmed\source\repos\Solution1\zad4\bin\Debug\netcoreapp3.1\zad4.dll
+C:\Users\Ahmed\source\repos\Solution1\zad4\bin\Debug\netcoreapp3.1\zad4.pdb
+C:\Users\Ahmed\source\repos\Solution1\zad4\obj\Debug\netcoreapp3.1\zad4.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\repos\Solution1\zad4\obj\Debug\netcoreapp3.1\zad4.AssemblyInfo.cs
+C:\Users\Ahmed\source\repos\Solution1\zad4\obj\Debug\netcoreapp3.1\zad4.dll
+C:\Users\Ahmed\source\repos\Solution1\zad4\obj\Debug\netcoreapp3.1\zad4.pdb
