@@ -1,0 +1,9 @@
+C:\Users\Ahmed\source\repos\zad 2 25.03\zad 2 25.03\bin\Debug\zad 2 25.03.exe.config
+C:\Users\Ahmed\source\repos\zad 2 25.03\zad 2 25.03\bin\Debug\zad 2 25.03.exe
+C:\Users\Ahmed\source\repos\zad 2 25.03\zad 2 25.03\bin\Debug\zad 2 25.03.pdb
+C:\Users\Ahmed\source\repos\zad 2 25.03\zad 2 25.03\obj\Debug\zad 2 25.03.csprojAssemblyReference.cache
+C:\Users\Ahmed\source\repos\zad 2 25.03\zad 2 25.03\obj\Debug\zad_2_25._03.Form1.resources
+C:\Users\Ahmed\source\repos\zad 2 25.03\zad 2 25.03\obj\Debug\zad_2_25._03.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\zad 2 25.03\zad 2 25.03\obj\Debug\zad 2 25.03.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\zad 2 25.03\zad 2 25.03\obj\Debug\zad 2 25.03.exe
+C:\Users\Ahmed\source\repos\zad 2 25.03\zad 2 25.03\obj\Debug\zad 2 25.03.pdb
