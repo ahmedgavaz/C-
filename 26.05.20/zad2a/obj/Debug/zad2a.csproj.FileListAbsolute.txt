@@ -1,0 +1,8 @@
+C:\Users\Ahmed\source\repos\26.05.20\zad2a\obj\Debug\zad2a.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\26.05.20\zad2a\obj\Debug\zad2a.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\26.05.20\zad2a\bin\Debug\zad2a.exe.config
+C:\Users\Ahmed\source\repos\26.05.20\zad2a\bin\Debug\zad2a.exe
+C:\Users\Ahmed\source\repos\26.05.20\zad2a\bin\Debug\zad2a.pdb
+C:\Users\Ahmed\source\repos\26.05.20\zad2a\obj\Debug\zad2a.exe
+C:\Users\Ahmed\source\repos\26.05.20\zad2a\obj\Debug\zad2a.pdb
+C:\Users\Ahmed\source\repos\26.05.20\zad2a\obj\Debug\zad2a.csprojAssemblyReference.cache
