@@ -1,0 +1,8 @@
+C:\Users\Ahmed\source\repos\zad6 01.04\zad6 01.04\bin\Debug\zad6 01.04.exe.config
+C:\Users\Ahmed\source\repos\zad6 01.04\zad6 01.04\bin\Debug\zad6 01.04.exe
+C:\Users\Ahmed\source\repos\zad6 01.04\zad6 01.04\bin\Debug\zad6 01.04.pdb
+C:\Users\Ahmed\source\repos\zad6 01.04\zad6 01.04\obj\Debug\zad6_01._04.Form1.resources
+C:\Users\Ahmed\source\repos\zad6 01.04\zad6 01.04\obj\Debug\zad6_01._04.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\zad6 01.04\zad6 01.04\obj\Debug\zad6 01.04.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\zad6 01.04\zad6 01.04\obj\Debug\zad6 01.04.exe
+C:\Users\Ahmed\source\repos\zad6 01.04\zad6 01.04\obj\Debug\zad6 01.04.pdb
