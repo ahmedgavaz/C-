@@ -1,0 +1,10 @@
+C:\Users\Ahmed\source\repos\12.04.2020\zad6\obj\Debug\netcoreapp3.1\zad6.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\repos\12.04.2020\zad6\obj\Debug\netcoreapp3.1\zad6.AssemblyInfo.cs
+C:\Users\Ahmed\source\repos\12.04.2020\zad6\bin\Debug\netcoreapp3.1\zad6.exe
+C:\Users\Ahmed\source\repos\12.04.2020\zad6\bin\Debug\netcoreapp3.1\zad6.deps.json
+C:\Users\Ahmed\source\repos\12.04.2020\zad6\bin\Debug\netcoreapp3.1\zad6.runtimeconfig.json
+C:\Users\Ahmed\source\repos\12.04.2020\zad6\bin\Debug\netcoreapp3.1\zad6.runtimeconfig.dev.json
+C:\Users\Ahmed\source\repos\12.04.2020\zad6\bin\Debug\netcoreapp3.1\zad6.dll
+C:\Users\Ahmed\source\repos\12.04.2020\zad6\bin\Debug\netcoreapp3.1\zad6.pdb
+C:\Users\Ahmed\source\repos\12.04.2020\zad6\obj\Debug\netcoreapp3.1\zad6.dll
+C:\Users\Ahmed\source\repos\12.04.2020\zad6\obj\Debug\netcoreapp3.1\zad6.pdb
