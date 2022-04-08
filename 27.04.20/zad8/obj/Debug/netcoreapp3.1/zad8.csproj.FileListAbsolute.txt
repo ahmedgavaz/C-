@@ -1,0 +1,11 @@
+C:\Users\Ahmed\source\repos\27.04.20\zad8\bin\Debug\netcoreapp3.1\zad8.exe
+C:\Users\Ahmed\source\repos\27.04.20\zad8\bin\Debug\netcoreapp3.1\zad8.deps.json
+C:\Users\Ahmed\source\repos\27.04.20\zad8\bin\Debug\netcoreapp3.1\zad8.runtimeconfig.json
+C:\Users\Ahmed\source\repos\27.04.20\zad8\bin\Debug\netcoreapp3.1\zad8.runtimeconfig.dev.json
+C:\Users\Ahmed\source\repos\27.04.20\zad8\bin\Debug\netcoreapp3.1\zad8.dll
+C:\Users\Ahmed\source\repos\27.04.20\zad8\bin\Debug\netcoreapp3.1\zad8.pdb
+C:\Users\Ahmed\source\repos\27.04.20\zad8\obj\Debug\netcoreapp3.1\zad8.csprojAssemblyReference.cache
+C:\Users\Ahmed\source\repos\27.04.20\zad8\obj\Debug\netcoreapp3.1\zad8.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\repos\27.04.20\zad8\obj\Debug\netcoreapp3.1\zad8.AssemblyInfo.cs
+C:\Users\Ahmed\source\repos\27.04.20\zad8\obj\Debug\netcoreapp3.1\zad8.dll
+C:\Users\Ahmed\source\repos\27.04.20\zad8\obj\Debug\netcoreapp3.1\zad8.pdb
