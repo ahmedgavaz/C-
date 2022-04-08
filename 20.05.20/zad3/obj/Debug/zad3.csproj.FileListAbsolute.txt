@@ -1,0 +1,7 @@
+C:\Users\Ahmed\source\repos\20.05.20\zad3\bin\Debug\zad3.exe.config
+C:\Users\Ahmed\source\repos\20.05.20\zad3\bin\Debug\zad3.exe
+C:\Users\Ahmed\source\repos\20.05.20\zad3\bin\Debug\zad3.pdb
+C:\Users\Ahmed\source\repos\20.05.20\zad3\obj\Debug\zad3.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\20.05.20\zad3\obj\Debug\zad3.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\20.05.20\zad3\obj\Debug\zad3.exe
+C:\Users\Ahmed\source\repos\20.05.20\zad3\obj\Debug\zad3.pdb
