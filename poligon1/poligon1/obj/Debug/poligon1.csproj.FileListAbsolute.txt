@@ -1,0 +1,8 @@
+C:\Users\Ahmed\source\repos\poligon1\poligon1\bin\Debug\poligon1.exe.config
+C:\Users\Ahmed\source\repos\poligon1\poligon1\bin\Debug\poligon1.exe
+C:\Users\Ahmed\source\repos\poligon1\poligon1\bin\Debug\poligon1.pdb
+C:\Users\Ahmed\source\repos\poligon1\poligon1\obj\Debug\poligon1.csprojAssemblyReference.cache
+C:\Users\Ahmed\source\repos\poligon1\poligon1\obj\Debug\poligon1.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\poligon1\poligon1\obj\Debug\poligon1.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\poligon1\poligon1\obj\Debug\poligon1.exe
+C:\Users\Ahmed\source\repos\poligon1\poligon1\obj\Debug\poligon1.pdb
